@@ -9,6 +9,7 @@ Design Aspect
 -----------
 * HTML5
 * CSS/SCSS
+* JS
 
 How to Test This Website?
 ==========
